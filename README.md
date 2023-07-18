@@ -1,0 +1,1 @@
+Ce dossier concerne les exercices solo basic de git
